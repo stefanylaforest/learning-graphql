@@ -1,2 +1,2 @@
-# playing-with-graphql
+# learning-graphql
 Learning GraphQL
